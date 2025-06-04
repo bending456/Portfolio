@@ -14,11 +14,11 @@ Welcome to my professional journey — a unique blend of **chemical engineering*
 
 ```text
 🎓 Chemical Engineer (UT Austin)   
-      ↓   
+                    ⬇️   
 🔬 Computational Researcher (PhD @ Georgia Tech)   
-      ↓   
-👨‍🏫 Educator & Mentor (Oglethorpe, Kennesaw, UKY)   
-      ↓   
-💻 AI & Data Model Contributor   
-      &   
-🏭 Pharma Industry Expert (Catalent)   
+                    ⬇️   
+👨‍🏫 Educator & Mentor & Researcher   
+(Oglethorpe, Kennesaw, UKY, Loyola Univ. Chicago)   
+                    ⬇️   
+💻 AI & Data Model Contributor & 🏭 Pharma Industry Expert (Catalent)     
+ 
