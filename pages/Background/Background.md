@@ -13,20 +13,12 @@ Welcome to my professional journey — a unique blend of **chemical engineering*
 ## 🧭 Career Trajectory at a Glance
 
 ```text
-🎓 Chemical Engineer (UT Austin)
-
-      ↓
-
-🔬 Computational Researcher (PhD @ Georgia Tech)
-
-      ↓
-
-👨‍🏫 Educator & Mentor (Oglethorpe, Kennesaw, UKY)
-
-      ↓
-
-💻 AI & Data Model Contributor
-
-      ↓
-      
-🏭 Pharma Industry Expert (Catalent)
+🎓 Chemical Engineer (UT Austin)   
+      ↓   
+🔬 Computational Researcher (PhD @ Georgia Tech)   
+      ↓   
+👨‍🏫 Educator & Mentor (Oglethorpe, Kennesaw, UKY)   
+      ↓   
+💻 AI & Data Model Contributor   
+      &   
+🏭 Pharma Industry Expert (Catalent)   
