@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-nav_order: 2
+nav_order: 1
 ---
 
 ## Hello, I'm Ben Chun
