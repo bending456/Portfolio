@@ -4,4 +4,4 @@ nav_order: 4
 ---
 ## 📄 Downloadable Resume
 
-- 🔗 [Resume/CV](/docs/Byeongjae-CV.pdf)  
+- 🔗 [Resume/CV](/Portfolio/docs/Byeongjae-CV.pdf)  
