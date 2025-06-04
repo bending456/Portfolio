@@ -1,7 +1,8 @@
 ---
 title: Education
+parent: Background
 permalink:/Background/Education
-nav_order: 2
+nav_order: 1
 ---
 ## **Education**
 
