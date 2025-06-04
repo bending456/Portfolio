@@ -2,10 +2,10 @@ remote_theme: pmarsceill/just-the-docs
 
 # Auxiliary links for the upper right hand corner
 aux_links:
-  "Colaboratory Link":
-  - "https://colab.research.google.com/notebooks/intro.ipynb"
+  "LinkedIn Link":
+  - "http://www.linkedin.com/in/byeongjae-ben-chun-745b551b"
   "Contact Ben":
-  - "mailto:bchun@luc.edu"
+  - "mailto:bending456@gmail.com"
 
-title: "Cell Migration - MD (OpenMM) based simulation"
+title: "Byeong Jae (Ben) Chun's Portfolio"
 theme: jekyll-theme-cayman
