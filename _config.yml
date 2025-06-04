@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
-title: Ben Chun's homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: pmarsceill/just-the-docs
+
+# Auxiliary links for the upper right hand corner
+aux_links:
+  "Colaboratory Link":
+  - "https://colab.research.google.com/notebooks/intro.ipynb"
+  "Contact Ben":
+  - "mailto:bchun@luc.edu"
+
+title: "Cell Migration - MD (OpenMM) based simulation"
+theme: jekyll-theme-cayman
