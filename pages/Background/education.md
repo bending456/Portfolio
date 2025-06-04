@@ -1,7 +1,7 @@
 ---
 title: Education
 parent: Background
-permalink:/Background/Education
+permalink:/Background/Education/
 nav_order: 1
 ---
 ## **Education**
