@@ -19,6 +19,9 @@ With a strong foundation in chemical engineering and computational science, I br
 - **AI & Machine Learning**:  
   Experience with ML pipelines, data annotation, model training, and evaluation. Skilled in scikit-learn, TensorFlow/Keras, and Jupyter-based analysis.
 
+- **Excel & Automation**:  
+  Proficient in **Excel VBA macros** for automating data analysis, formatting, reporting, and batch processing tasks. Experienced in building user-friendly tools for routine workflows.
+
 - **Workflow & Version Control**:  
   Regular GitHub user for code versioning, collaborative development, and project documentation.
 
