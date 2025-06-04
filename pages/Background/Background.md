@@ -12,7 +12,6 @@ Welcome to my professional journey — a unique blend of **chemical engineering*
 
 ## 🧭 Career Trajectory at a Glance
 
-```text
 🎓 Chemical Engineer (UT Austin)   
                     ⬇️   
 🔬 Computational Researcher (PhD @ Georgia Tech)   
@@ -21,5 +20,5 @@ Welcome to my professional journey — a unique blend of **chemical engineering*
 (Oglethorpe, Kennesaw, UKY, Loyola Univ. Chicago)   
                     ⬇️   
 💻 AI & Data Model Contributor & 🏭 Pharma Industry Expert (Catalent)     
-```
+
  
