@@ -30,8 +30,8 @@ With a strong foundation in chemical engineering and computational science, I br
 I actively use GitHub to host code, share research tools, and maintain technical documentation. Visit my portfolio and repositories:
 
 👉 [My GitHub Profile](https://github.com/bending456)  
-👉 [Python Boot Camp](https://bending456.github.io/PKHlabBootCamp/)
-👉 [Cell Migration Simulation](https://bending456.github.io/OpenMM_Migration/)
-👉 [Pathway Analysis](https://bending456.github.io/Macrophage/)
+👉 [Python Boot Camp](https://bending456.github.io/PKHlabBootCamp/)  
+👉 [Cell Migration Simulation](https://bending456.github.io/OpenMM_Migration/)  
+👉 [Pathway Analysis](https://bending456.github.io/Macrophage/)  
 
 Feel free to explore projects, notebooks, and simulations I've contributed to or built from scratch.
