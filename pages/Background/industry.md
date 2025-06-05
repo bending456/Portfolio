@@ -11,7 +11,7 @@ This section outlines my contributions to the **pharmaceutical industry**, where
 ---
 
 ## 🏭 Catalent Pharma Solutions — Winchester, KY
-![catalent](/images/Catalent_logo.svg.png)
+![catalent](/images/Catalent_logo.png)
 ### **Technical Lead, Production**  
 *May 2023 – Present*
 
