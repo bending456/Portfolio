@@ -9,7 +9,7 @@ My academic training laid a strong interdisciplinary foundation in **chemical en
 
 ---
 
-![Georgia Tech](/images/Georgia_Tech_logo_2021.svg.png)   
+![Georgia Tech](/Portfolio/images/Georgia_Tech_logo_2021.svg.png)   
 **Ph.D. in Chemical Engineering**  
 *2011 – 2015*
 
@@ -22,7 +22,7 @@ My academic training laid a strong interdisciplinary foundation in **chemical en
 
 ---
 
-![simula](/images/simulaacademy-logo.png)
+![simula](/Portfolio/images/simulaacademy-logo.png)
 
 **Certificate in Computational Physiology**  
 *2018*
@@ -32,7 +32,7 @@ My academic training laid a strong interdisciplinary foundation in **chemical en
 
 ---
 
-![The University of Texas at Austin](/images/University_of_Texas_at_Austin_logo.svg.png)   
+![The University of Texas at Austin](/Portfolio/images/University_of_Texas_at_Austin_logo.svg.png)   
 **B.S. in Chemical Engineering**  
 *2008 – 2011*
 
